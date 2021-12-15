@@ -8,6 +8,7 @@ It was heavily influenced by [Ryan Florence's Gist](https://gist.github.com/ryan
 
 Make sure you populate the `.env` file with your Firebase credentials.
 You will also need to add your Firebase credentials to the `app/utils/firebase/firebase.client.ts` file when initializing the app.
+Make sure you have the [Firebase cli](https://firebase.google.com/docs/cli) installed and configured. Also make sure you are running emulators for auth and firestore.
 
 ## Demo
 
